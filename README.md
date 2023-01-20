@@ -8,10 +8,18 @@ custom pcb/os for mini game console
 | Processor Card | Pi Compute Module 4 | $50 | https://www.pishop.us/product/raspberry-pi-compute-module-4-wireless-2gb-16gb-cm4102016/ |
 | Button PCB |
 | Display PCB |
-| Shell |
 | Buttons |
 | USB C port |
 | Power modules |
+| FMC Connector |
+| Ribbon Cable |
+| DS hinge |
+| Shell |
+
+### Optional
+- headphone port
+- i2c/s speaker
+- usb c display output
 
 ### Links
 - https://www.stlfinder.com/model/gameboy-advance-sp-xl-9WjZjhvh/2401317/
